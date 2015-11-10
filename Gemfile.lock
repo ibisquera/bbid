@@ -160,7 +160,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  bootstrap-sass (= 3.3.5.1)
+  bootstrap-sass
   coffee-rails (~> 4.1.0)
   debugger
   jbuilder (~> 2.0)
